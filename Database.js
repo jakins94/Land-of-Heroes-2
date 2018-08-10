@@ -4,6 +4,8 @@ var Database = rootRequire('Database');
 
 Database.db;
 
+//test
+
 Database.init = function() {
 	var MongoClient = require('mongodb').MongoClient;
 
